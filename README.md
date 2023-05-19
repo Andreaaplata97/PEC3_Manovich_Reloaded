@@ -11,7 +11,6 @@ Fecha: 18 de mayo de 2023
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
-
 ## Planteamiento
 La hibridación segun Manovich es un fenómeno para entender como evoluciona la multimedia. En su libro el software toma el mando lo define como una combinación de diferentes medios que se convierten en una nueva forma de expresión o comunicación. Según Lev Manovich, el software es el agente principal de la hibridación, ya que permite crear y manipular medios digitales de manera flexible y creativa.
 El objetivo de este informe es explicar dos casos de hibridación a traves de las gafas de Manovich. Para ello he escogido como casos de hibridación: Twitch y Google Lens.
