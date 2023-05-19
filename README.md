@@ -34,6 +34,7 @@ Desde las gafas de Manovich, podemos decir también que es un caso de hibridaci�
 
 
 ## Re-descubriendo la hibridacion: Google Lens
+![Logo google lens](https://github.com/Andreaaplata97/PEC3_Manovich_Reloaded/assets/132663999/15f8a9dc-fb25-4fae-81be-1e2662afd0d5)
 Google Lens es una aplicación móvil desarrollada por Google que utiliza tecnología de reconocimiento de imagen para proporcionar información útil y relevante sobre lo que se está viendo.
 
 Con Google Lens, puedes sacar provecho de varias funciones basadas en la visión, como la capacidad de copiar o traducir texto, identificar plantas y animales, explorar lugares y menús, descubrir productos e incluso encontrar imágenes similares en Internet. Todo esto se logra simplemente tomando una foto o utilizando la cámara desde tu móvil o Tablet. Sus algoritmos además no se ven afectados por publicidad.
