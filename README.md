@@ -23,8 +23,11 @@ Debido a ser una plataforma digital también tiene competidores, como es Youtube
 
 Twitch genera una remediación ya que, comenzó como una plataforma para retransmitir tus partidas a videojuegos, pero ha ido evolucionando y puedes encontrar también otro tipo de contenidos. En ese sentido podemos ver como ya empezó haciendo una evolución de ser solo una plataforma en la que se comentaban los videojuegos a ser una plataforma en la cual puedes hablar música, artes, deportes etc.
 Visionando Twitch desde las gafas de Manovich, podemos ver que es un buen ejemplo de hibridación ya que, combina diferentes medios multimedia para convertirse en lo que es. Fusiona diferentes medios de comunicación para retransmitir, por ejemplo:
+
  **La televisión:** ya que como ella, ofrece contenidos audiovisuales, pero se diferencia en que, con Twitch puedes interactuar con los creadores de contenido. Es como una televisión a la carta, ya que tú mismo puedes elegir que contenido ver a la hora que quieras, sin seguir una programación como podría ser en la televisión y también cabe destacar que los streamers pueden recibir donaciones, suscripciones y utilizar emotes para interactuar con la audiencia.
+ 
  **El podcast**: En un podcast todos sabemos que escuchamos una grabación de personas hablando, pero a diferencia de Twitch, podemos hacer el podcast en vivo con nuestros oyentes, estos nos pueden ver a través del video y además pueden participar mediante el chat lo que lo hace, una plataforma mucho más interactiva.
+ 
  **Educación y tutoriales**: En esta opción primero la podemos comparar con un videotutorial de YouTube en el que puedes ver un tutorial de algo que no sabes hacer, pero no te ha quedado claro. Con Twitch esto no te pasaría, ya que, al fusionar el video con el chat en vivo, si no has entendido algo de lo te han explicado puedes interactuar con el streamer.
  
 En conclusión, podemos decir que Twitch es una plataforma la cual ha revolucionado la forma en la que antes podríamos ver o comentar contenido multimedia. La plataforma presenta primero una forma de remediación, debido a su capacidad al adaptarse a los nuevos medios, ya que ha pasado de transmitir solo videojuegos a ampliar su alcance en muchísimos otros temas a los cuales pueden llegar a más público.
