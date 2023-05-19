@@ -2,10 +2,11 @@
 
 ### Recurso de aprendizaje de Cultura Digital 
 
-
 Autor: Andrea Plata 
 
 Fecha: 18 de mayo de 2023
+
+![El-software-toma-el-mando-i1n9389549](https://github.com/Andreaaplata97/PEC3_Manovich_Reloaded/assets/132663999/546dc2ef-e07c-497d-b381-682cfc7f0edf)
 
 ## Planteamiento
 La hibridación segun Manovich es un fenómeno para entender como evoluciona la multimedia. En su libro el software toma el mando lo define como una combinación de diferentes medios que se convierten en una nueva forma de expresión o comunicación. Según Lev Manovich, el software es el agente principal de la hibridación, ya que permite crear y manipular medios digitales de manera flexible y creativa.
