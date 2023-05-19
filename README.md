@@ -37,9 +37,21 @@ Desde las gafas de Manovich, podemos decir también que es un caso de hibridaci�
 
 
 ## Re-descubriendo la hibridacion: Google Lens
+Google Lens es una aplicación móvil desarrollada por Google que utiliza tecnología de reconocimiento de imagen para proporcionar información útil y relevante sobre lo que se está viendo.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Con Google Lens, puedes sacar provecho de varias funciones basadas en la visión, como la capacidad de copiar o traducir texto, identificar plantas y animales, explorar lugares y menús, descubrir productos e incluso encontrar imágenes similares en Internet. Todo esto se logra simplemente tomando una foto o utilizando la cámara de tu dispositivo.
 
+En pocas palabras, Google Lens es una herramienta que aprovecha el poder del análisis visual para brindarte información valiosa sobre cualquier cosa que encuentres en tu entorno. Ya sea que necesites traducir texto, obtener detalles sobre un objeto o descubrir contenido relacionado, Google Lens está ahí para ayudarte de una manera fácil y accesible.
+
+Google Lens es un excelente ejemplo de hibridación según los conceptos de Lev Manovich. La aplicación combina de manera efectiva diferentes elementos y técnicas de software para crear una experiencia nueva y coherente.
+
+En primer lugar, Google Lens fusiona la tecnología de reconocimiento de imágenes con la capacidad de búsqueda en Internet. Al utilizar análisis visual, la aplicación puede identificar y comprender lo que está viendo, permitiéndote buscar información relacionada y encontrar imágenes similares en línea. Esta combinación de la capacidad de procesamiento de imágenes con la búsqueda en Internet es un claro ejemplo de hibridación, ya que fusiona elementos de diferentes medios para ofrecer una experiencia única.
+
+Además, Google Lens integra funciones de procesamiento de lenguaje natural, lo que le permite copiar y traducir texto que se encuentra en imágenes. Esto implica la combinación de técnicas de procesamiento de imágenes con herramientas de procesamiento de texto y traducción, creando una fusión entre medios que genera una experiencia coherente y funcional.
+
+Otra característica destacada de Google Lens es su capacidad para identificar objetos, plantas y animales, brindando información relevante sobre ellos. Esta función implica la combinación de técnicas de reconocimiento de imágenes con una base de datos de conocimientos y categorías, creando una hibridación entre la visión computarizada y el contenido curado.
+
+En resumen, Google Lens se alinea con los principios de hibridación de Manovich al combinar eficazmente diferentes elementos y técnicas de software, como el reconocimiento de imágenes, la búsqueda en Internet, el procesamiento de lenguaje natural y la identificación de objetos. Esta combinación de medios crea una experiencia novedosa y coherente, transformando la forma en que interactuamos con el mundo visual a través de la tecnología.
 
 ### Referencias y Bibliografía
 
