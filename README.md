@@ -17,6 +17,7 @@ El objetivo de este informe es explicar dos casos de hibridación a traves de la
 
 
 ## Re-descubriendo la hibridacion: Twitch
+(https://github.com/Andreaaplata97/PEC3_Manovich_Reloaded/commit/c6a9701692b0f9564b62b054a77733263410513b/Twitch.jpg)
 Twitch es una plataforma de streaming de vídeo, la cual es propiedad de Amazon, en la que los creadores pueden realizar sus emisiones, y cualquier persona puede verlas. Se centra principalmente en la transmisión de videojuegos y contenido relacionado con los videojuegos, como reseñas de juegos, comentarios, tutoriales y más. Twitch ha cambiado la forma en que los videojuegos se comparten y se ven en línea.
 Debido a ser una plataforma digital también tiene competidores, como es Youtube.
 
