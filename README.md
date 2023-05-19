@@ -39,19 +39,19 @@ Desde las gafas de Manovich, podemos decir también que es un caso de hibridaci�
 ## Re-descubriendo la hibridacion: Google Lens
 Google Lens es una aplicación móvil desarrollada por Google que utiliza tecnología de reconocimiento de imagen para proporcionar información útil y relevante sobre lo que se está viendo.
 
-Con Google Lens, puedes sacar provecho de varias funciones basadas en la visión, como la capacidad de copiar o traducir texto, identificar plantas y animales, explorar lugares y menús, descubrir productos e incluso encontrar imágenes similares en Internet. Todo esto se logra simplemente tomando una foto o utilizando la cámara de tu dispositivo.
+Con Google Lens, puedes sacar provecho de varias funciones basadas en la visión, como la capacidad de copiar o traducir texto, identificar plantas y animales, explorar lugares y menús, descubrir productos e incluso encontrar imágenes similares en Internet. Todo esto se logra simplemente tomando una foto o utilizando la cámara desde tu móvil o Tablet. Sus algoritmos además no se ven afectados por publicidad.
 
-En pocas palabras, Google Lens es una herramienta que aprovecha el poder del análisis visual para brindarte información valiosa sobre cualquier cosa que encuentres en tu entorno. Ya sea que necesites traducir texto, obtener detalles sobre un objeto o descubrir contenido relacionado, Google Lens está ahí para ayudarte de una manera fácil y accesible.
+Visionando Google Lens desde las gafas de Manovich podemos observar que es un buen ejemplo de hibridación moderna, debido a que esta aplicación combina diferentes elementos y técnicas de software para crear una experiencia nueva. Por ejemplo:
 
-Google Lens es un excelente ejemplo de hibridación según los conceptos de Lev Manovich. La aplicación combina de manera efectiva diferentes elementos y técnicas de software para crear una experiencia nueva y coherente.
+**La tecnología de reconocimiento de imágenes**Google Lens combina la tecnología de reconocimiento de imágenes con capacidades de búsqueda en Internet. Mediante el análisis visual, la aplicación puede reconocer y comprender lo que está viendo, lo que le permite buscar información relacionada y encontrar imágenes similares en línea. Esta combinación reconocimiento de imágenes y búsqueda en Internet es un claro ejemplo de hibridación, ya que combina diferentes elementos para obtener un resultado para quien lo utiliza.
 
-En primer lugar, Google Lens fusiona la tecnología de reconocimiento de imágenes con la capacidad de búsqueda en Internet. Al utilizar análisis visual, la aplicación puede identificar y comprender lo que está viendo, permitiéndote buscar información relacionada y encontrar imágenes similares en línea. Esta combinación de la capacidad de procesamiento de imágenes con la búsqueda en Internet es un claro ejemplo de hibridación, ya que fusiona elementos de diferentes medios para ofrecer una experiencia única.
+**Traductor**: Google Lens permite traducir textos a tiempo real. Esto se produce por la combinación de imágenes y textos en los cuales la aplicación trabaja para darte la traducción que deseas. De nuevo podemos ver cómo es un caso de hibridación ya que combina las imágenes con el texto.
 
-Además, Google Lens integra funciones de procesamiento de lenguaje natural, lo que le permite copiar y traducir texto que se encuentra en imágenes. Esto implica la combinación de técnicas de procesamiento de imágenes con herramientas de procesamiento de texto y traducción, creando una fusión entre medios que genera una experiencia coherente y funcional.
+**Identificación de objetos, flores o animales** : Google Lens también es capaz de identificar objetos, plantas y animales, dándote información sobre ellos, por ejemplo de que raza es un animal  o qué tipo de flor es la que estas enseñándole. Aquí podemos ver como la hibridación se produce cuando combina una imagen que le muestras y la compara con otras imágenes similares y con información en bases de datos.
 
-Otra característica destacada de Google Lens es su capacidad para identificar objetos, plantas y animales, brindando información relevante sobre ellos. Esta función implica la combinación de técnicas de reconocimiento de imágenes con una base de datos de conocimientos y categorías, creando una hibridación entre la visión computarizada y el contenido curado.
+En conclusión, podemos decir que Google Lens es una aplicación móvil que definiría muy bien la hibridación moderna al combinar diferentes elementos y técnicas de software para darnos una experiencia innovadora y útil. Mediante sus técnicas de fusión de tecnología a través del reconocimiento de imágenes, la capacidad de búsqueda en Internet, la traducción en tiempo real y la identificación de objetos, plantas y animales, Google Lens transforma la forma en que interactuamos con el mundo visual a través de nuestros dispositivos móviles. Este ejemplo de hibridación hace que experimentes una visión diferente a los medios mediante la combinación de elementos visuales, lingüísticos y de bases de datos, generando así, una nueva interacción entre los usuarios y su entorno. En definitiva, Google Lens demuestra cómo la combinación de diferentes medios y tecnologías puede potenciar nuestra comprensión y conexión con el mundo que nos rodea y ayudarnos en algunas situaciones a las cuales sin esta nueva tecnología, estaríamos perdidos.
 
-En resumen, Google Lens se alinea con los principios de hibridación de Manovich al combinar eficazmente diferentes elementos y técnicas de software, como el reconocimiento de imágenes, la búsqueda en Internet, el procesamiento de lenguaje natural y la identificación de objetos. Esta combinación de medios crea una experiencia novedosa y coherente, transformando la forma en que interactuamos con el mundo visual a través de la tecnología.
+
 
 ### Referencias y Bibliografía
 
@@ -60,6 +60,9 @@ En resumen, Google Lens se alinea con los principios de hibridación de Manovich
 * Adell, Ferran. (2014). "Remediación, multimedia e hibridación de los medios” [en línea] [consulta: mayo de 2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 * Wikipedia( 17 mayo 2023) Twitch En Wikipedia, la enciclopedia libre. URL:https://es.wikipedia.org/wiki/Twitch
 * Xataka (19 Junio 2022)Twitch: qué es, cómo funciona y TODO para sacarle el máximo partido URL: https://www.xataka.com/basics/twitch-que-como-funciona-todo-para-sacarle-maximo-partido
+* Wikipedia( 21 marzo 2023) Google Lens en Wikipedia URL: https://es.wikipedia.org/wiki/Google_Lens
+* Xataka(10 Junio 2019) Google Lens: qué es, cómo instalarlo y todo lo que puedes hacer con ella URL: https://www.xataka.com/basics/google-lens-que-como-instalarlo-todo-que-puedes-hacer-ella
+* Google Lens "¿Qué es Google Lens?" URL: https://lens.google/intl/es-419/howlensworks/
 
 ----
 
