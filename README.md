@@ -44,8 +44,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
+* Alberich-Pascual, Jordi. "Elementos de la creatividad multimedia: apropiación, remediación, hibridación". Mosaic, 2018 [consulta: mayo de 2023] Disponible en: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
+* Adell, Ferran. (2014). "Remediación, multimedia e hibridación de los medios” [en línea] [consulta: mayo de 2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* Wikipedia( 17 mayo 2023) Twitch En Wikipedia, la enciclopedia libre. URL:https://es.wikipedia.org/wiki/Twitch
+* Xataka (19 Junio 2022)Twitch: qué es, cómo funciona y TODO para sacarle el máximo partido URL: https://www.xataka.com/basics/twitch-que-como-funciona-todo-para-sacarle-maximo-partido
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+
