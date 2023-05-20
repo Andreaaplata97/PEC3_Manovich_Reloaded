@@ -42,15 +42,16 @@ Con Google Lens, puedes sacar provecho de varias funciones basadas en la visión
 
 Visionando Google Lens desde las gafas de Manovich podemos observar que es un buen ejemplo de hibridación moderna, debido a que esta aplicación combina diferentes elementos y técnicas de software para crear una experiencia nueva. Por ejemplo:
 
-**La tecnología de reconocimiento de imágenes**: Google Lens combina la tecnología de reconocimiento de imágenes con capacidades de búsqueda en Internet. Mediante el análisis visual, la aplicación puede reconocer y comprender lo que está viendo, lo que le permite buscar información relacionada y encontrar imágenes similares en línea. Esta combinación reconocimiento de imágenes y búsqueda en Internet es un claro ejemplo de hibridación, ya que combina diferentes elementos para obtener un resultado para quien lo utiliza.
+**La tecnología de reconocimiento de imágenes**:En esta función de Google Lens podemos ver la forma de hibridación debido a que combina la tecnología de reconocimiento de imágenes con capacidades de búsqueda en Internet. Mediante el análisis visual, la aplicación puede reconocer y comprender lo que está viendo, lo que le permite buscar información relacionada y encontrar imágenes similares en línea. Esta hibridación hace que mejore la interacción del usuario con el mundo visual.
 
 ![shoping](https://github.com/Andreaaplata97/PEC3_Manovich_Reloaded/assets/132663999/d7df27f3-6ebf-43ab-88b8-b7cacbe03c22)
 
-**Traductor**: Google Lens permite traducir textos a tiempo real. Esto se produce por la combinación de imágenes y textos en los cuales la aplicación trabaja para darte la traducción que deseas. De nuevo podemos ver cómo es un caso de hibridación ya que combina las imágenes con el texto.
+**Traductor**: La hibridación en la función de traducción de Google Lens hace que se combinen las imágenes con los textos para traducir textos a tiempo real. Podemos obsevar la combinación de una camara que utliza el usuario para identificar el texto y posteriormente la aplicación utiliza algoritmos de reconocimiento de caracteres para convertirlo en tu traducción.Esta fusión de elementos visuales con elementos textuales ofrece una experiencia hibrida para los usuarios.
 
 ![Traductor](https://github.com/Andreaaplata97/PEC3_Manovich_Reloaded/assets/132663999/c3b7369f-e44d-49f0-b1c3-97366d0da677)
 
-**Identificación de objetos, flores o animales** : Google Lens también es capaz de identificar objetos, plantas y animales, dándote información sobre ellos, por ejemplo de que raza es un animal  o qué tipo de flor es la que estas enseñándole. Aquí podemos ver como la hibridación se produce cuando combina una imagen que le muestras y la compara con otras imágenes similares y con información en bases de datos.
+**Identificación de objetos, flores o animales** : Google Lens ofrece una experiencia de hibridación en esta opción también debido a que la aplicación combina el análisis visual,una base de datos y algoritmos. Con el análisis visual identifica el objeto, con la base de datos busca la información y con los algoritmos compara para poder identificar objetos, plantas y animales, dándote información sobre ellos, por ejemplo de que raza es un animal  o qué tipo de flor es la que estas enseñándole.
+
 ![Flores](https://github.com/Andreaaplata97/PEC3_Manovich_Reloaded/assets/132663999/27603105-0834-460f-8bca-8582899383c5)
 
 
